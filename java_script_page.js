@@ -11,3 +11,9 @@ let totalTasks = 1;
 
 console.log(task);
 console.log(totalTasks);
+
+function sayHello() {
+    console.log("Hello! I am learning JavaScript.");
+}
+
+sayHello();
